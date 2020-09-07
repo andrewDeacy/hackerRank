@@ -1,0 +1,14 @@
+/Users/qxv9345/Desktop/development/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/qxv9345/Desktop/development/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/qxv9345/Desktop/development/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/qxv9345/Desktop/development/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp2.1/ConsoleApp1.deps.json
+/Users/qxv9345/Desktop/development/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp2.1/ConsoleApp1.runtimeconfig.json
+/Users/qxv9345/Desktop/development/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp2.1/ConsoleApp1.runtimeconfig.dev.json
+/Users/qxv9345/Desktop/development/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp2.1/ConsoleApp1.dll
+/Users/qxv9345/Desktop/development/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp2.1/ConsoleApp1.pdb
+/Users/qxv9345/Desktop/development/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.1/ConsoleApp1.csprojAssemblyReference.cache
+/Users/qxv9345/Desktop/development/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.1/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/qxv9345/Desktop/development/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.1/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/qxv9345/Desktop/development/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.1/ConsoleApp1.AssemblyInfo.cs
+/Users/qxv9345/Desktop/development/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.1/ConsoleApp1.dll
+/Users/qxv9345/Desktop/development/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.1/ConsoleApp1.pdb

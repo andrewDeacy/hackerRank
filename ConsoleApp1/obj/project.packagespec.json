@@ -1,0 +1,59 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/qxv9345/Desktop/development/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+    "projectName": "ConsoleApp1",
+    "projectPath": "/Users/qxv9345/Desktop/development/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+    "outputPath": "/Users/qxv9345/Desktop/development/ConsoleApp1/ConsoleApp1/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {},
+      "https://artifacts.connected.bmw/artifactory/api/nuget/runtime-nuget": {}
+    },
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "MSTest.TestAdapter": {
+          "target": "Package",
+          "version": "[2.1.2, )"
+        },
+        "MSTest.TestFramework": {
+          "target": "Package",
+          "version": "[2.1.2, )"
+        },
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[16.7.1, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

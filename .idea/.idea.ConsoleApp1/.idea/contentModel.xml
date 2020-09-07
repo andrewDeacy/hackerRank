@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.nuget/packages/microsoft.net.test.sdk/16.7.1/build/netcoreapp2.1" t="Include">
+      <e p="Microsoft.NET.Test.Sdk.Program.cs" t="Include" />
+    </e>
+    <e p="$USER_HOME$/.nuget/packages/mstest.testadapter/2.1.2/build/_common/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/mstest.testadapter/2.1.2/build/_common/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/mstest.testadapter/2.1.2/build/netcoreapp1.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll" t="Include" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="ConsoleApp1" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="birthdayCandles.cs" t="Include" />
+        <e p="birthdayCandles_test.cs" t="Include" />
+        <e p="ConsoleApp1.csproj" t="IncludeRecursive" />
+        <e p="matchingStrings.cs" t="Include" />
+        <e p="matchingStrings_test.cs" t="Include" />
+        <e p="MiniMaxSum.cs" t="Include" />
+        <e p="miniMaxSum_test.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="ConsoleApp1.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="swaps.cs" t="Include" />
+        <e p="swaps_test.cs" t="Include" />
+      </e>
+      <e p="ConsoleApp1.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_ConsoleApp1.-785916489.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/extensions" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
+  </component>
+</project>
